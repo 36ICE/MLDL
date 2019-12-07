@@ -1,0 +1,7 @@
+[32m[0929 14:20:05 @logger.py:90][0m Argv: /Users/zengcd/PycharmProjects/MLDL/base/recognized/hed.py
+[32m[0929 14:20:05 @fs.py:101][0m [5m[31mWRN[0m Env var $TENSORPACK_DATASET not set, using /Users/zengcd/tensorpack_data for datasets.
+[32m[0929 14:20:08 @param.py:208][0m Use train_log/hed/hyper.txt to set hyperparam: 'learning_rate'.
+[32m[0929 14:20:08 @concurrency.py:267][0m [5m[31mWRN[0m Command 'nvidia-smi -L' failed, return code=127
+[32m[0929 14:20:08 @concurrency.py:268][0m [5m[31mWRN[0m /bin/sh: nvidia-smi: command not found
+
+[32m[0929 14:20:08 @gpu.py:59][0m Loading local devices by TensorFlow ...
